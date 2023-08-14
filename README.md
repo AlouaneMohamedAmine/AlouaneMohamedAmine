@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="HTML, CSS, JavaScript, Node.js, TypeScript">
 
   <h2>Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs, express" alt="Tailwind, React, Next.js, Express">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,express" alt="Tailwind, React, Next.js, Express">
 
   <h2>Databases</h2>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB">
