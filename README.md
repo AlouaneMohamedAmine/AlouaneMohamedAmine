@@ -7,13 +7,13 @@
   <br>
 
   <h2>Programming Languages</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="HTML, CSS, JavaScript, Node.js">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="HTML, CSS, JavaScript, Node.js, TypeScript">
 
   <h2>Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" alt="Tailwind, React, Next.js">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs, express" alt="Tailwind, React, Next.js, Express">
 
   <h2>Databases</h2>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB">
 
   <h2>Development Tools</h2>
   <img src="https://skillicons.dev/icons?i=git,vscode" alt="Git, Visual Studio Code">
